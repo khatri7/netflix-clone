@@ -1,8 +1,8 @@
-#Netflix-Clone
+# Netflix-Clone
 *Netflix Clone Website developed using React, Firebase, and TMDB API for movies and shows collection with their details. Also, plays trailers to most of the items on click*<br />
 <a href="https://netflix-clone-45984.web.app/" target="_blank">Preview</a>
 <br /><br /><br />
-###Instructions:
+### Instructions:
 1. Get your API key from TMDB by signing up<br />
 2. Create a file named ".env" and store your API key in this file the following manner:<br />
 ```

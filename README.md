@@ -1,3 +1,7 @@
+Netflix Clone<br />
+<a href="https://netflix-clone-45984.web.app/" target="_blank">Preview</a><br />
+Made using React<br /><br /><br />
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

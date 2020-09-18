@@ -1,7 +1,15 @@
-Netflix Clone(Made using React<br />
+Netflix Clone(Made using React)<br />
 <a href="https://netflix-clone-45984.web.app/" target="_blank">Preview</a><br />
-)<br /><br /><br />
-
+<br /><br /><br />
+Instructions:<br />
+1. Get your API key from TMDB by signing up<br />
+2. Create a file named ".env" and store your API key in this file the following manner:<br />
+```
+REACT_APP_API_KEY=your_api_key
+```
+<br />
+You can read more about .env and hiding API key <a href="https://medium.com/better-programming/how-to-hide-your-api-keys-c2b952bc07e6" target="_blank">here</a>
+<br /><br /><br /><br />
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
